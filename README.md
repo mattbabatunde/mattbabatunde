@@ -4,7 +4,7 @@
 
 
 
-I'm a Visionary Software Engineer,  I'm passionate about sharing knowledge, building model software,  documentation, web engineering, Jamstack, headless commerce, and others. I share ideas and insightful stories (on my [Article](https://medium.com/@babsmathew/) , build useful [open-source projects](https://github.com/mattbabatunde)
+I'm a Visionary Software Engineer,  I'm passionate about sharing knowledge, building model software,  documentation, web engineering, Jamstack, headless commerce, and others. I share ideas and insightful stories (on my ![Article](https://medium.com/@babsmathew/) , build useful [open-source projects](https://github.com/mattbabatunde)
 
 **Here's a quick summary about me**:
 
