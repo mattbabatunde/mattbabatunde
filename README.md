@@ -4,8 +4,7 @@
 
 
 
-I'm a Visionary Software Engineer,  I'm passionate about sharing knowledge, building model software,  documentation, web engineering, Jamstack, headless commerce, and others. I share ideas and insightful stories on my        [![Medium Badge](https://img.shields.io/badge/-@babsmathew-1ca0f1?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/mattbabatunde)](https://medium.com/@babsmathew), 
-  build useful [open-source projects](https://github.com/mattbabatunde)
+I'm a Visionary Software Engineer,  I'm passionate about sharing knowledge, building model software,  documentation, web engineering, Jamstack, headless commerce, and others. I share ideas and insightful stories on my [![Article ](https://medium.com/@babsmathew), build useful [open-source projects](https://github.com/mattbabatunde)
 
 **Here's a quick summary about me**:
 
