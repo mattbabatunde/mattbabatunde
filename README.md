@@ -1,5 +1,4 @@
-# Hello there; 
-
+# Hello there 👋
 
 A **Full-Stack Software Engineer and Security Researcher** with 3+ years of experience, focused on building web applications, APIs, and secure, resilient endpoints.
 
@@ -7,9 +6,11 @@ I work primarily with **Python, JavaScript, React, Node.js, Vue.js, and Java**, 
 
 🚀 **Open to collaboration** on interesting projects, open-source initiatives, and innovative solutions.
 
-📫 **Reach me:** 
+📫 **Reach me:**
 
-[Linkedin](https://img.shields.io/badge/-mattbabatunde-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matt-babatunde)](https://www.linkedin.com/in/matt-babatunde) | [Twitter/X](https://img.shields.io/badge/-@lastgigin0-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/matt_babatunde)] | [Email](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/-mattbabatunde-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matt-babatunde) 
+[![Twitter/X](https://img.shields.io/badge/-@lastgigin0-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/matt_babatunde) 
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
 
