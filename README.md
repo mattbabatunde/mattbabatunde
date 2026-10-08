@@ -8,7 +8,7 @@ I work primarily with **Python, JavaScript, React, Node.js, Vue.js, and Java**, 
 
 📫 **Reach me:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mattbabatunde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matt-babatunde)
+[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/matt-babatunde)
 
 [![X](https://img.shields.io/badge/X-@matt_babatunde-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/matt_babatunde)
 
