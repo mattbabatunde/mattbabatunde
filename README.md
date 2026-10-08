@@ -12,7 +12,7 @@ I work primarily with **Python, JavaScript, React, Node.js, Vue.js, and Java**, 
 
 [![X](https://img.shields.io/badge/@matt_babatunde-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/matt_babatunde)
 
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babsmathew68@gmail.com)
+[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babsmathew68@gmail.com)
 
 ---
 
