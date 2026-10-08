@@ -1,18 +1,15 @@
-# Hello there; welcome 👋🏾
-
-[![Linkedin Badge](https://img.shields.io/badge/-mattbabatunde-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matt-babatunde)](https://www.linkedin.com/in/matt-babatunde) [![Twitter Badge](https://img.shields.io/badge/-@lastgigin0-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/lastgigin0)](https://x.com/lastgigin0)
+# Hello there; 
 
 
+A **Full-Stack Software Engineer and Security Researcher** with 3+ years of experience, focused on building web applications, APIs, and secure, resilient endpoints.
 
-I'm a Software Engineer,  I'm passionate about sharing knowledge, building model software,  documentation, web engineering, Jamstack, headless commerce, and others. I share ideas and insightful stories on my [Article](https://medium.com/@babsmathew), build useful [open-source projects here on github](https://github.com/mattbabatunde)
+I work primarily with **Python, JavaScript, React, Node.js, Vue.js, and Java**, and I'm continuously expanding my knowledge across software engineering, cloud technologies, and security research.
 
-**Here's a quick summary about me**:
-😊 Pronouns: He/Him.
-🎓 Graduate of AltSchool Africa – School of Software Engineering, Class of 2024.
-🚀 Open to collaborating on open-source projects, hackathons, and innovative tech initiatives.
-💼 Job interests: Software Engineer, Frontend Engineer, Backend Engineer.
-📫 Contact: View my resume or email me at babsmathew68@gmail.com.
-💡 Fun fact: I enjoy building futuristic, human-centered digital experiences that merge creativity and technology.
+🚀 **Open to collaboration** on interesting projects, open-source initiatives, and innovative solutions.
+
+📫 **Reach me:** 
+
+[Linkedin](https://img.shields.io/badge/-mattbabatunde-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matt-babatunde)](https://www.linkedin.com/in/matt-babatunde) | [Twitter/X](https://img.shields.io/badge/-@lastgigin0-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/matt_babatunde)] | [Email](mailto:YOUR_EMAIL)
 
 ---
 
