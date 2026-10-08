@@ -9,8 +9,8 @@ I work primarily with **Python, JavaScript, React, Node.js, Vue.js, and Java**, 
 📫 **Reach me:**
 
 [![LinkedIn](https://img.shields.io/badge/-mattbabatunde-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matt-babatunde) 
-[![Twitter/X](https://img.shields.io/badge/-@lastgigin0-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/matt_babatunde) 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Twitter/X](https://img.shields.io/badge/-@matt_babatunde-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/matt_babatunde) 
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:babsmathew68@gmail.com)
 
 ---
 
